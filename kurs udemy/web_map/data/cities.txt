@@ -1,0 +1,9 @@
+﻿MIASTO,COUNTRY
+Tokio,Japonia
+Deli,Indie
+Meksyk,Meksyk
+Nowy Jork,USA
+Szanghaj,Chiny
+São Paulo,Brazylia
+Pekin,Chiny
+Dhaka,Bangladesz
